@@ -4,6 +4,7 @@
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
